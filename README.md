@@ -36,8 +36,11 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Screenshot 2023-10-29 131426](https://github.com/gani-radiant/AgriSat/assets/112921101/b6b23c72-8dd6-4a91-be9f-2a625106ee79)
+![Screenshot 2023-10-29 131426](https://github.com/gani-radiant/AgriSat/assets/112921101/eb6e9196-d614-4a9e-a034-16b478c101a8)
+![Screenshot 2023-10-29 131426](https://github.com/gani-radiant/AgriSat/assets/112921101/cd8487f2-0403-4094-9029-e85a18d4f16d)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-
-
+![Screenshot 2023-10-29 131426](https://github.com/gani-radiant/AgriSat/assets/112921101/f0efe98b-aa0a-40b2-ab73-c321d190e180)
+![Screenshot 2023-10-29 131426](https://github.com/gani-radiant/AgriSat/assets/112921101/684d7ed4-d7c1-4cdb-813b-362f77dc2e49)
+![Screenshot 2023-10-29 131426](https://github.com/gani-radiant/AgriSat/assets/112921101/5bfe914e-ddeb-4904-8aeb-7cf5b1f175db)
+![Screenshot 2023-10-29 131426](https://github.com/gani-radiant/AgriSat/assets/112921101/8e8cbaf4-47fb-433f-8038-3cc60f66418a)
