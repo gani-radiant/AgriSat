@@ -52,3 +52,5 @@ Paddy Cultivation Identification:
 Identification of fake paddy:
 ![Screenshot 2023-10-29 133003](https://github.com/gani-radiant/AgriSat/assets/91460621/aa671b4d-d093-44a3-9ee7-0a70bfc50ff5)
 
+https://colab.research.google.com/drive/1j5areTWhjKF6Smxuyrg5IanyKKVBmHKR?usp=sharing
+
